@@ -2,4 +2,3 @@
 Contributors and their favorite fruits:
 - AnilKumt: Apple 🍎
 - aditya: Banana 🍌
-kkkk
